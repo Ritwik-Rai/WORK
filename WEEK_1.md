@@ -22,4 +22,31 @@ Cat the file to get flag.
 
 ### 3)tunn3l v1s10n
 Ran file command and saw its bmp.
-However i wasnt able to open the file so i used hexedit to make the first 10 bytes same as any other .bmp file.
+i used hexedit to make the first 10 bytes same as any other .bmp file.
+Afterwards the file opened and i saw a picture. However the text on picture was "notaflag".
+I proceeded to check wikipedia to find height bytes of file and increased them. After approx tripling the height i was able to see the flag.
+
+#### flag is "picoCTF{qu1t3_a_v13w_2020}".
+
+### 4)MacroHard WeakEdge
+On running the file command i see its a .pptm file.
+On running binwalk I saw a lot og zip files.
+i used unzip command to unzip all files.
+After unzipping i saw a unique file /ppt/slideMasters/hidden . 
+On using cat on file I got a string which on using base64 decoder and got the flag.
+#### flag is picoCTF{D1d_u_kn0w_ppts_r_zip5}
+
+### 5)Enhance!
+Used file command and saw its a .svg file.
+Used xxd and observed header bytes and saw nothing special.
+However on using cat on file I observed the last few commands and was able to see flag in them.
+
+
+
+
+
+
+
+
+
+
