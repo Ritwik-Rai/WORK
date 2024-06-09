@@ -7,6 +7,8 @@ After downloading the image I used file command and confirmed its an image.
 On inspecting image details i saw that XMP rights management had a strange string in cc: license .
 I copied string and put it in base64 decoder to get flag.
 
+#### flag is picoCTF{the_m3tadata_1s_modified}
+
 ### 2)Matryoshka doll
 Matryoshka dolls are famous dolls in which a doll contains a doll in itself.
 Use binwalk command to see file contents.
@@ -19,6 +21,8 @@ Extracted base_images/4_c.jpg.
 Binwalk again and then unzip.
 Extracted flag.txt.
 Cat the file to get flag.
+
+#### flag is picoCTF{ac0072c423ee13bfc0b166af72e25b61}
 
 ### 3)tunn3l v1s10n
 Ran file command and saw its bmp.
@@ -91,9 +95,7 @@ Open file it has flag
 #### flag is picoCTF{Hiddinng_An_imag3_within_@n_ima9e_cda72af0}
 
 ### 9) MSB
-
-
-
+Tried to solve using various tools like stegsolve , stegseek but was unable to solve it.
 
 
 ### 10) Extensions
