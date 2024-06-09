@@ -90,7 +90,7 @@ Open file it has flag
 
 #### flag is picoCTF{Hiddinng_An_imag3_within_@n_ima9e_cda72af0}
 
-### 9) 
+### 9) MSB
 
 
 
@@ -99,11 +99,66 @@ Open file it has flag
 ### 10) Extensions
 Use file command and we see its supposed to be jpg not txt.
 Change extension to .jpg and open to get flag.
-#### flag is picoCTF{now_you_know_about_extensions}
+#### flag is picoCTF{now_you_know_about_extensions
 
+## Challenge2
+### Sakura Room
+#### 1) 
+Just type "Let's Go!"
 
+#### 2)
+On opening and inspecting the image we can see the file path.
+This leads us to our guess which is SakuraSnowAngelAiko which is the username.
 
+#### 3)
+On searching the username on browser we can see a github profile .
+Another good result is the linkedin profile which gives us her name that is "Aiko Abe".
 
+The first result on searching the username we get github account which has repository called pgp.
+On searching about PGP we get to know its a method of encrypting and decrypting emails.
+We have the public PGP key. On searching how to use it I got to know about software kleopatra.
+Using public PGP key on it we get details which gives us the email : SakuraSnowAngel83@protonmail.com
 
+#### 4)
+Github profile also has several other repos . I see some mining repos , our pgp one ,  an IO one and one named eth.
+1) The eth file contains info. On searching internet for eth we get ethereum as our crypto currency.
+2) We browse history of eth repo file and can see a line which has later been removed.
+We get the wallet adress from this : 0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef
+3) On searching it on browser we get a site called etherscan which gives us past transaction details.
+These can be used to get mining pool on 23rd jan 2021 : Ethermine
+4) And we also get other crypto used by Aiko : Tether
 
+#### 5)
+1) Given photo shows AikoAbe3 on searching we get twitter account and get twitter handle : SakuraLoverAiko
+2)We see on twitter posts that Aiko has saved her wifi details somewhere on dark web with our hint being deep and paste.
+On searching for dark web I had to install Tor and subsquently i searched for deep paste.
+I found out its an onion. I tried to open it but was unable to. Hence i had to use hint given on site.
+Hint had picture which had site given : http://deepv2w7p33xa4pwxzwi2ps4j62gfxpyp44ezjbmpttxz3owlsp4ljid.onion
+3) On searching how to get Bssid when i have username and password i got a site called wigle.net .
+Afterwards i solved 6th question first through which i filtered search region for wigle.net to Japan.
+Search gave me wifi BSSID and location of Aiko's home : 84:af:ec:34:fc:f8
+
+#### 6)
+
+1) The photo before flight seems to be the sakura tree.
+Actually couldnt find answer to 1st part and had to search to get hint which is the washington monument.
+Hence nearest airport code is : DCA
+
+2) We have image first class lounge sakura lounge. Just searched this on google found similar image to be of airport in Haneda
+   Code is : HND
+3) Lake is easy to find as image has map of japan. Open map and get name og lake : Lake Inawashiro
+4) I actually guessed it due to a wifi network called Hirosaki_Free_wifi however our answer is confirmed when we find BSSID in q5.
+
+### 2) Gralhix tasks
+#### 6) 
+I just cropped the tweet to get image. I then revese searched on tin eye and found it being used in articles as old as 2016.
+Hence its not an image of 2023.
+I also found a link of alamy which tells us image is taken in 2006.
+
+#### 4)
+Just right clicked image and searched on google.
+Got result of Oan Resort.
+Location is : Oan resort , Oan island Wonip , Chuuk , Micronesia.
+Coordinates can be gotten by opening it on google maps : 7.363445 N , 151.755707 E.
+Observe background islands in image and shape of islands in google earth , google maps . Camera is facing North West.
 
