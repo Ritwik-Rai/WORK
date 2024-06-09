@@ -179,3 +179,22 @@ I searched for buildings in Chisinau and luckily found one similar to the large 
 Coordinates : 47.0167644 N , 28.852601 E
 
 #### 26)
+I observed the image tags and took them in ascending order.
+1st image is of Chorsu Bazaar , Tashkent , Uzbekistan.
+2ns image shows a ferris wheel which leads us to an amusement park anhor lokomotiv.
+However image is near halva cafe and browsing nearby on maps we find 2nd location : approx coordinates : 41.326116 N , 69.266301
+
+I googles samsung sign and tashkent and got an image but got nothing else.
+I googled for Navien in tashkent but found its office which looked completely different.
+Its a picture on road near a bus stand.
+
+
+Our video seemed to be of a train. So we can look for railway stations . Nearest railway station to pic 2 is Stantsiya Tashkent Pass.
+So our pic 3 should be somewhere in between. A guess after seeing maps and google earth is coordinate : 41.2983   N , 69.2723 E
+
+For 4th image we just see a bridge under which a road is there. Couldnt find fourth.
+
+for mode of transportation:
+1 to 2 can be car or by walking
+2 to 3 can be car or walking
+3 to 4 is car then train and then car.
