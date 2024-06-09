@@ -164,3 +164,18 @@ Location is : Oan resort , Oan island Wonip , Chuuk , Micronesia.
 Coordinates can be gotten by opening it on google maps : 7.363445 N , 151.755707 E.
 Observe background islands in image and shape of islands in google earth , google maps . Camera is facing North West.
 
+#### 3)
+Just crop the image and use it in google image search.
+Found an article on atalayar that they are standing at Ankara Presidential complex.(https://www.atalayar.com/en/articulo/politics/somalia-erdogans-spearhead-east-africa/20200508113246145709.html)
+
+Coordinates are : 39.9308 N , 32.7992 E
+
+#### 14)
+Using date and time stamp I was able to determine the earthquake being talked about was the one in romania.
+I explored earthquake list of 2016.
+Took a still of video and searched it on google lens. Got suggested Chisinau which happens to be capital of moldova neihboring romania.
+Hence we get earthquake location as Chisinau . Earthquake was of 5.5 -6 on richter scale.
+I searched for buildings in Chisinau and luckily found one similar to the large building in background. That image was much clearer and once i searched for the place on gmaps i could summarize the location. : V continental Business centre
+Coordinates : 47.0167644 N , 28.852601 E
+
+#### 26)
